@@ -1,0 +1,22 @@
+
+.textWrap {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.itemText {
+    display: flex;
+    gap: 6px
+}
+
+.btnWrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btn {
+    font-size: 16px;
+    padding: 6px;
+}

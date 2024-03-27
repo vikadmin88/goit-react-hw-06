@@ -1,6 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Vite + React + Redux
+## goit-react-hw-06
+### HW: Contact book
 
 Currently, two official plugins are available:
 

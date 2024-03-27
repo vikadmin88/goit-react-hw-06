@@ -1,0 +1,15 @@
+.listBox {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.listItem {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #000;
+    border-radius: 6px;
+    padding: 12px 10px;
+    max-width: 320px;
+    width: 100%;
+}
